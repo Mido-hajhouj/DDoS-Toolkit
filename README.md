@@ -141,35 +141,6 @@ ddos -u 192.168.48.165 -s
 
 ---
 
-### 2. **Wi-Fi Deauthentication Tool (`wifideauth`)**
-This tool provides comprehensive Wi-Fi network management and attack functionalities for cybersecurity testing. (Aircrak-ng optional)
-
-#### Features:
-- **Wi-Fi Network Scanning**: Detect nearby networks with details like SSID, BSSID, channel, and signal strength.
-- **Deauthentication Attacks**: Disconnect devices from networks using aireplay-ng or scapy.
-- **MAC Address Spoofing**: Change the attacker's MAC address to avoid detection.
-
-#### Usage:
-```bash
-ddos --wifi-deauth
-```
-
----
-
-### 3. **Anonymizer (`anonymizer`)**
-A script to ensure complete anonymity during attacks by routing traffic through the Tor network. (Required Tor)
-
-#### Features:
-- **Tor Integration**: Redirect all network traffic through Tor for anonymity.
-- **DNS Leak Protection**: Prevent DNS queries from bypassing Tor.
-- **VPN Compatibility**: Combine with VPNs for added security.
-
-#### Usage:
-```bash
-ddos --anonymizer start
-```
-
----
 
 ## **🤝 Contributing**
 Contributions are welcome! Submit an issue or pull request to improve the toolkit.  
