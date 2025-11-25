@@ -145,4 +145,4 @@ ddos -u 192.168.48.165 -s
 ## **🤝 Contributing**
 Contributions are welcome! Submit an issue or pull request to improve the toolkit.  
 
-**<p align="center"> Developed by <a href="https://github.com/Midohajhouj">LIONMAD</a> </p>**
+**<p align="center"> Developed by <a href="https://github.com/Mido-hajhouj">LIONMAD</a> </p>**
